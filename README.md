@@ -40,7 +40,3 @@ I graduated in 2023 with a BSc in Accounting and Finance from King’s College L
 <b>Top Languages</b>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShabazzDyer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ShabazzDyer/data_analyst_profile" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShabazzDyer&repo=data_analyst_profile&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ShabazzDyer/couch_2_coder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShabazzDyer&repo=couch_2_coder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
