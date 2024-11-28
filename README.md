@@ -40,7 +40,7 @@ I graduated in 2023 with a BSc in Accounting and Finance from King’s College L
 
 <b>Top Languages</b>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShabazzDyer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <b>Top Repositories</b>
 
