@@ -38,11 +38,7 @@ I graduated in 2023 with a BSc in Accounting and Finance from King’s College L
 
 ### Badges
 
-<b>Stats</b>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShabazzDyer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-<b>Top LanguageS</b>
+<b>Top Languages</b>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
